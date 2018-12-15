@@ -2273,7 +2273,7 @@ input[type="text"] {
   margin-top: -45px;
 }
 
-
+@media(min-width:1200px){
 
 .glitch {
   position: relative;
@@ -2480,7 +2480,7 @@ input[type="text"] {
   clip: rect(0, 900px, 0, 0);
   animation: noise-anim-2 3s infinite linear alternate-reverse;
 }
-
+}
 .slides {
   height: 520px;
 }
