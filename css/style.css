@@ -2480,3 +2480,12 @@ input[type="text"] {
       clip: rect(0, 900px, 0, 0);
       animation: noise-anim-2 3s infinite linear alternate-reverse;
 }
+
+.slides{
+  height:520px;
+}
+
+#colorlib-hero .flexslider .slider-text>.slider-text-inner .desc {
+  position: absolute;
+  padding-bottom: 130px;
+}
