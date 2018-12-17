@@ -1210,7 +1210,7 @@ blockquote {
 .gallery {
   float: left;
   width: 50%;
-  height: 170px;
+  height: 340px;
   position: relative;
   display: table;
   z-index: 0;
